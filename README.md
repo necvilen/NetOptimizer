@@ -6,6 +6,5 @@ Windows latency tuning script (run as Administrator).
 ## Quick Start (with git)
 
 ```cmd
-git clone https://github.com/necvilen/NetOptimizer.git
-cd NetOptimizer
+curl -L -o NetOptimizer.py https://raw.githubusercontent.com/necvilen/NetOptimizer/main/NetOptimizer.py
 py NetOptimizer.py
