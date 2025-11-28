@@ -3,6 +3,8 @@ Fix Network Latency
 
 Windows latency tuning script (run as Administrator).
 
+NOTE --> u need to install python on ur system
+
 ## Quick Start - run in CMD
 
 ```cmd
